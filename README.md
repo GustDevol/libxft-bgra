@@ -45,3 +45,10 @@ Keith Packard
 keithp@keithp.com
 
 
+### Install
+
+```
+./install.sh [libdir]
+```
+
+Default value of **libdir** is `/usr/lib`. Provide the correct location for **libdir** according to your linux distribution.
