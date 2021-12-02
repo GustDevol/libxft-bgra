@@ -48,7 +48,8 @@ keithp@keithp.com
 ### Install
 
 ```
-./install.sh [libdir]
+chmod +x patch_compile_install.sh
+./patch_compile_install.sh [libdir]
 ```
 
 Default value of **libdir** is `/usr/lib`. Provide the correct location for **libdir** according to your linux distribution.
